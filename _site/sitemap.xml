@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+        <loc>https://codehbs.com/blog/</loc>
+        
+          
+          
+          
+          <priority>1.0</priority>
+          
+        
+       </url>
+    
+  
+    
+      <url>
+        <loc>https://codehbs.com/</loc>
+        
+          
+          
+          
+          <priority>1.0</priority>
+          
+        
+       </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+        <loc>https://codehbs.com/blog/page2/</loc>
+        
+          
+          
+          
+          <priority>1.0</priority>
+          
+        
+       </url>
+    
+  
+  
+    <url>
+      <loc>https://codehbs.com/tech/2015/06/27/welcome.html</loc>
+      
+        <lastmod>2015-06-27T00:00:00-07:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://codehbs.com/tech/2015/06/25/initial-setup.html</loc>
+      
+        <lastmod>2015-06-25T00:00:00-07:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://codehbs.com/tech/2015/06/24/intro-layout-tutorial.html</loc>
+      
+        <lastmod>2015-06-24T00:00:00-07:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://codehbs.com/tech/2015/06/22/web-app-mode.html</loc>
+      
+        <lastmod>2015-06-22T00:00:00-07:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://codehbs.com/tech/2015/06/20/blog-tutorial.html</loc>
+      
+        <lastmod>2015-06-20T00:00:00-07:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://codehbs.com/tech/2015/06/19/writing-posts.html</loc>
+      
+        <lastmod>2015-06-19T00:00:00-07:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://codehbs.com/tech/2015/06/12/timeline-tutorial.html</loc>
+      
+        <lastmod>2015-06-12T00:00:00-07:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://codehbs.com/tech/2015/06/11/social-buttons-tutorial.html</loc>
+      
+        <lastmod>2015-06-11T00:00:00-07:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://codehbs.com/tech/2015/06/10/contact-tutorial.html</loc>
+      
+        <lastmod>2015-06-10T00:00:00-07:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+</urlset>

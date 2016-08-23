@@ -1,0 +1,189 @@
+
+# Site settings
+
+# NB! Set your site's url, otherwise stuff will break :)
+
+url: "https://codehbs.com"
+
+# If you're hosting your site at a Project repository on GitHub pages
+# (https://yourusername.github.io/repository-name)
+# and NOT your user repository (https://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+#
+# NB! Without this *nothing* will work, because it's used in every path :)
+
+baseurl:
+
+# Google tracking id
+
+google-tracking-id: ""
+
+# Forces https everywhere in your website, except when you serve it locally
+# If you are not hosted on Github Pages, and your host doesn't support https
+# then you should disable it
+
+force-https: True
+
+#############
+# HTML Head #
+#############
+
+lang: "en"
+author: "CODE"
+title: "{ CODE@HBS }"
+description: "Welcome to CODE. Our mission is to bring technologists together at Harvard Business School."
+keywords: "code, HBS, Harvard Business School"
+favicon: "/img/favicon.ico"
+
+################
+# Header layout #
+################
+
+black-favicon: "/img/black-lab-glass.ico"
+
+background-img: "../img/unsplash-code.jpeg"
+
+##############################
+# Dynamic Text on the Header #
+##############################
+
+dynamic-typing: True
+shuffle: True # Shuffle the lines.
+loop: True
+loop-count: False # Set False for infinite loop, or set any number for finite loop.
+type-speed: 10
+start-delay: 200
+delete-delay: 5000
+lines: # You can add HTML Tags in the Text
+  - text: "Hello World. Welcome to Harvard Business School."
+  - text: "Who says MBAs don't code?"
+
+me-img: "/img/code-logo.jpg"
+
+##############################
+# Color the browser elements #
+##############################
+color-browser: "#000000"
+apple-status-bar-style: "black"
+
+################
+# Web app mode #
+################
+
+web-app-mode: True
+
+# Icons for Web App mode
+
+icon-36p: "/img/web-app/icon-36p.png"
+icon-48p: "/img/web-app/icon-48p.png"
+icon-72p: "/img/web-app/icon-72p.png"
+icon-96p: "/img/web-app/icon-96p.png"
+icon-144p: "/img/web-app/icon-144p.png"
+icon-192p: "/img/web-app/icon-192p.png"
+
+########
+# Blog #
+########
+
+enable-gesture-navigation: True
+
+post-preview-words: 96
+
+paginate: 5
+
+email-share: True
+fb-share: True
+twitter-share: True
+
+syntax-highlight: True
+
+############
+# Timeline #
+############
+
+events:
+  - image: "/img/timeline/bansi.jpg"
+    date: "September 2016 - Today"
+    description: "CODE Celebrates it's 1st Anniversary!"
+  - image: "/img/timeline/anshul.png"
+    date: "September 2015 - May 2016"
+    description: "CODE was born. Had its first class."
+
+# First image of the Timeline
+
+timeline-img: "/img/timeline/first-meeting.png"
+
+###########
+# Contact #
+###########
+
+email: "code@studentclubs.hbs.edu"
+
+################
+# Author Blurb #
+################
+
+# The author blurb goes underneath blog posts.
+# This works best when your author blurb image has a transparent background, or matches your site background color.
+
+# if the author_blurb is not set, then this feature is skipped
+author_blurb: 
+author_blurb_image: 
+
+##################
+# Social Buttons #
+##################
+
+social:
+  - title: "github"
+    url: "https://github.com/codehbs"
+  - title: "twitter"
+    url: "https://twitter.com/codehbs"    
+  - title: "facebook"
+    url: "https://facebook.com/codehbs"
+  - title: "instagram"
+    url: "https://instagram.com/codehbs"
+
+
+
+############
+# 404 page #
+############
+
+404-img: "/img/labtocat.png"
+
+##################
+# GPG on Keybase #
+##################
+
+keybase-username: 
+keybase-in-social: False
+keybase-in-footer: False
+
+################################################################################
+
+# NB! Tread carefully if you want to change the variables below this point!
+
+# Sections shown in the index page
+
+pages_list:
+  About: 'about'
+  Timeline: 'timeline'
+  Contact: 'contact'
+
+# Exclusion list from the generated _site
+
+exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
+
+# Pagination path
+
+paginate_path: "blog/page:num/"
+
+# Enable minification SASS
+
+sass:
+  style: compressed
+
+gems:
+  - jekyll-paginate
+  - jemoji
