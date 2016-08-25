@@ -98,16 +98,25 @@ twitter-share: True
 syntax-highlight: True
 
 ############
-# Timeline #
+# Member Timeline #
 ############
 
 events:
-  - image: "/img/timeline/bansi.jpg"
-    date: "September 2016 - Today"
-    description: "CODE Celebrates it's 1st Anniversary!"
-  - image: "/img/timeline/anshul.png"
-    date: "September 2015 - May 2016"
-    description: "CODE was born. Had its first class."
+  - image: "/img/timeline/andreacoravos.jpg"
+    date: "Andrea Coravos"
+    description:  <a href="http://github.com/acoravos/"><i class='fa fa-github'></i></a>
+                  <a href="http://www.twitter.com/andreacoravos"><i class='fa fa-twitter'></i></a>
+                  <a href="https://www.linkedin.com/in/andreacoravos"><i class='fa fa-linkedin'></i></a>
+                  <a href="http://www.instagram.com/andreacoravos/"><i class='fa fa-instagram'></i></a>
+                  <a href="https://angel.co/andrea-coravos"><i class='fa fa-angellist'></i></a>
+                  <a href="https://www.coinbase.com/coravos"><i class='fa fa-btc'></i></a>
+  - image: "/img/timeline/anshulbhagi.jpg"
+    date: "Anshul Bhagi"
+    description:  <a href="http://github.com/abhagi/"><i class='fa fa-github'></i></a>
+                  <a href="http://www.twitter.com/anshulbhagi"><i class='fa fa-twitter'></i></a>
+                  <a href="https://www.linkedin.com/in/anshulbhagi"><i class='fa fa-linkedin'></i></a>
+                  <a href="http://www.instagram.com/abhagi/"><i class='fa fa-instagram'></i></a>
+                  <a href="https://angel.co/anshulbhagi"><i class='fa fa-angellist'></i></a>
 
 # First image of the Timeline
 
@@ -168,7 +177,7 @@ keybase-in-footer: False
 
 pages_list:
   About: 'about'
-  Timeline: 'timeline'
+  Members: 'timeline'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
