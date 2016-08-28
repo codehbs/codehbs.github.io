@@ -27,7 +27,7 @@ After cd'ing into the codehbs-official-homepage directory, start the Jekyll serv
 
 `jekyll serve`
 
-Look for your local server address. Most likely your Jekyll page will be hosted at localhost:4000. 
+Look for your local server address. Most likely your Jekyll page will be hosted at localhost:4000 in your browser. 
 
 ## Embrace good git hygene
 To make updates, use your favorite text editor. Many CODE members like [Sublime Text](https://www.sublimetext.com/), [Atom](https://education.github.com/pack) and products from [JetBrains](https://www.jetbrains.com/). Always make a feature branch before submitting a pull request. Good feature branches use the following format:
