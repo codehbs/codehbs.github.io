@@ -38,4 +38,4 @@ For example: `arc/add-coravos-photo-and-social-links`
 
 We drafted for you a [sample CODE@HBS git workflow](https://github.com/codehbs/git-workflow/blob/master/README.md) for working on team projects like this. 
 
-Submit your pull request, and we'll merge your changes into the master branch in a few days! Challenge complete. #shipit
+Submit your [pull request](https://help.github.com/articles/creating-a-pull-request/), and we'll merge your changes into the master branch in a few days! Challenge complete. #shipit
