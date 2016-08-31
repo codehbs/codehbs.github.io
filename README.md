@@ -27,7 +27,7 @@ After cd'ing into the codehbs-official-homepage directory, start the Jekyll serv
 
 `jekyll serve`
 
-Look for your local server address. Most likely your Jekyll page will be hosted at localhost:4000. 
+Look for your local server address. Most likely your Jekyll page will be hosted at localhost:4000 in your browser. 
 
 ## Embrace good git hygene
 To make updates, use your favorite text editor. Many CODE members like [Sublime Text](https://www.sublimetext.com/), [Atom](https://education.github.com/pack) and products from [JetBrains](https://www.jetbrains.com/). Always make a feature branch before submitting a pull request. Good feature branches use the following format:
@@ -38,4 +38,4 @@ For example: `arc/add-coravos-photo-and-social-links`
 
 We drafted for you a [sample CODE@HBS git workflow](https://github.com/codehbs/git-workflow/blob/master/README.md) for working on team projects like this. 
 
-Submit your pull request, and we'll merge your changes into the master branch in a few days! Challenge complete. #shipit
+Submit your [pull request](https://help.github.com/articles/creating-a-pull-request/), and we'll merge your changes into the master branch in a few days! Challenge complete. #shipit
