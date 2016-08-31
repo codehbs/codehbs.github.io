@@ -12,7 +12,7 @@ url: "https://codehbsclub.com"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /codehbs-official-homepage
+baseurl: /welcome
 
 # Google tracking id
 
