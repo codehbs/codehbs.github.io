@@ -16,7 +16,7 @@ baseurl: /codehbs-official-homepage
 
 # Google tracking id
 
-google-tracking-id: ""
+google-tracking-id: "UA-83585019-1"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
