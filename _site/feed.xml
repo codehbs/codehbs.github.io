@@ -3,8 +3,8 @@
 	<channel>
 		<title>{ CODE@HBS }</title>
 		<description>Welcome to CODE. Our mission is to bring technologists together at Harvard Business School.</description>
-		<link>https://codehbsclub.com/welcome</link>
-		<atom:link href="https://codehbsclub.com/welcome/feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://codehbsclub.com/codehbs-official-homepage</link>
+		<atom:link href="https://codehbsclub.com/codehbs-official-homepage/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Welcome to { Personal } Jekyll Theme!</title>
@@ -15,8 +15,8 @@
 </description>
 				
 				<pubDate>Sat, 27 Jun 2015 00:00:00 -0400</pubDate>
-				<link>https://codehbsclub.com/welcome/tech/2015/06/27/welcome.html</link>
-				<guid isPermaLink="true">https://codehbsclub.com/welcome/tech/2015/06/27/welcome.html</guid>
+				<link>https://codehbsclub.com/codehbs-official-homepage/tech/2015/06/27/welcome.html</link>
+				<guid isPermaLink="true">https://codehbsclub.com/codehbs-official-homepage/tech/2015/06/27/welcome.html</guid>
 			</item>
 		
 			<item>
@@ -30,8 +30,8 @@ serving your { Personal } website for the first time.&lt;/p&gt;
 </description>
 				
 				<pubDate>Thu, 25 Jun 2015 00:00:00 -0400</pubDate>
-				<link>https://codehbsclub.com/welcome/tech/2015/06/25/initial-setup.html</link>
-				<guid isPermaLink="true">https://codehbsclub.com/welcome/tech/2015/06/25/initial-setup.html</guid>
+				<link>https://codehbsclub.com/codehbs-official-homepage/tech/2015/06/25/initial-setup.html</link>
+				<guid isPermaLink="true">https://codehbsclub.com/codehbs-official-homepage/tech/2015/06/25/initial-setup.html</guid>
 			</item>
 		
 			<item>
@@ -43,8 +43,8 @@ serving your { Personal } website for the first time.&lt;/p&gt;
 </description>
 				
 				<pubDate>Wed, 24 Jun 2015 00:00:00 -0400</pubDate>
-				<link>https://codehbsclub.com/welcome/tech/2015/06/24/intro-layout-tutorial.html</link>
-				<guid isPermaLink="true">https://codehbsclub.com/welcome/tech/2015/06/24/intro-layout-tutorial.html</guid>
+				<link>https://codehbsclub.com/codehbs-official-homepage/tech/2015/06/24/intro-layout-tutorial.html</link>
+				<guid isPermaLink="true">https://codehbsclub.com/codehbs-official-homepage/tech/2015/06/24/intro-layout-tutorial.html</guid>
 			</item>
 		
 			<item>
@@ -57,8 +57,8 @@ by providing links for the icons for each resolution:&lt;/p&gt;
 </description>
 				
 				<pubDate>Mon, 22 Jun 2015 00:00:00 -0400</pubDate>
-				<link>https://codehbsclub.com/welcome/tech/2015/06/22/web-app-mode.html</link>
-				<guid isPermaLink="true">https://codehbsclub.com/welcome/tech/2015/06/22/web-app-mode.html</guid>
+				<link>https://codehbsclub.com/codehbs-official-homepage/tech/2015/06/22/web-app-mode.html</link>
+				<guid isPermaLink="true">https://codehbsclub.com/codehbs-official-homepage/tech/2015/06/22/web-app-mode.html</guid>
 			</item>
 		
 			<item>
@@ -71,8 +71,8 @@ where you can place your thoughts about anything!&lt;/p&gt;
 </description>
 				
 				<pubDate>Sat, 20 Jun 2015 00:00:00 -0400</pubDate>
-				<link>https://codehbsclub.com/welcome/tech/2015/06/20/blog-tutorial.html</link>
-				<guid isPermaLink="true">https://codehbsclub.com/welcome/tech/2015/06/20/blog-tutorial.html</guid>
+				<link>https://codehbsclub.com/codehbs-official-homepage/tech/2015/06/20/blog-tutorial.html</link>
+				<guid isPermaLink="true">https://codehbsclub.com/codehbs-official-homepage/tech/2015/06/20/blog-tutorial.html</guid>
 			</item>
 		
 			<item>
@@ -84,8 +84,8 @@ where you can place your thoughts about anything!&lt;/p&gt;
 </description>
 				
 				<pubDate>Fri, 19 Jun 2015 00:00:00 -0400</pubDate>
-				<link>https://codehbsclub.com/welcome/tech/2015/06/19/writing-posts.html</link>
-				<guid isPermaLink="true">https://codehbsclub.com/welcome/tech/2015/06/19/writing-posts.html</guid>
+				<link>https://codehbsclub.com/codehbs-official-homepage/tech/2015/06/19/writing-posts.html</link>
+				<guid isPermaLink="true">https://codehbsclub.com/codehbs-official-homepage/tech/2015/06/19/writing-posts.html</guid>
 			</item>
 		
 			<item>
@@ -98,8 +98,8 @@ the form of a timeline of photos, dates and text descriptions.&lt;/p&gt;
 </description>
 				
 				<pubDate>Fri, 12 Jun 2015 00:00:00 -0400</pubDate>
-				<link>https://codehbsclub.com/welcome/tech/2015/06/12/timeline-tutorial.html</link>
-				<guid isPermaLink="true">https://codehbsclub.com/welcome/tech/2015/06/12/timeline-tutorial.html</guid>
+				<link>https://codehbsclub.com/codehbs-official-homepage/tech/2015/06/12/timeline-tutorial.html</link>
+				<guid isPermaLink="true">https://codehbsclub.com/codehbs-official-homepage/tech/2015/06/12/timeline-tutorial.html</guid>
 			</item>
 		
 			<item>
@@ -111,8 +111,8 @@ the form of a timeline of photos, dates and text descriptions.&lt;/p&gt;
 </description>
 				
 				<pubDate>Thu, 11 Jun 2015 00:00:00 -0400</pubDate>
-				<link>https://codehbsclub.com/welcome/tech/2015/06/11/social-buttons-tutorial.html</link>
-				<guid isPermaLink="true">https://codehbsclub.com/welcome/tech/2015/06/11/social-buttons-tutorial.html</guid>
+				<link>https://codehbsclub.com/codehbs-official-homepage/tech/2015/06/11/social-buttons-tutorial.html</link>
+				<guid isPermaLink="true">https://codehbsclub.com/codehbs-official-homepage/tech/2015/06/11/social-buttons-tutorial.html</guid>
 			</item>
 		
 			<item>
@@ -124,8 +124,8 @@ the form of a timeline of photos, dates and text descriptions.&lt;/p&gt;
 </description>
 				
 				<pubDate>Wed, 10 Jun 2015 00:00:00 -0400</pubDate>
-				<link>https://codehbsclub.com/welcome/tech/2015/06/10/contact-tutorial.html</link>
-				<guid isPermaLink="true">https://codehbsclub.com/welcome/tech/2015/06/10/contact-tutorial.html</guid>
+				<link>https://codehbsclub.com/codehbs-official-homepage/tech/2015/06/10/contact-tutorial.html</link>
+				<guid isPermaLink="true">https://codehbsclub.com/codehbs-official-homepage/tech/2015/06/10/contact-tutorial.html</guid>
 			</item>
 		
 	</channel>
