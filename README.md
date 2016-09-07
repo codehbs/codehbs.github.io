@@ -38,4 +38,12 @@ For example: `arc/add-coravos-photo-and-social-links`
 
 We drafted for you a [sample CODE@HBS git workflow](https://github.com/codehbs/git-workflow/blob/master/README.md) for working on team projects like this. 
 
-Submit your [pull request](https://help.github.com/articles/creating-a-pull-request/), and we'll merge your changes into the master branch in a few days! Challenge complete. #shipit
+To add your information, edit the `_config.yml` file. Add your name and social media links under the "member timeline" section. Due to legacy code, you'll need to add your information in the following format (e.g., use "date" to indicate your name and "description" for your social media links):
+```
+image: "/img/timeline/nameofyourphoto.jpg"
+date: "Your Name"
+description:  <a href="http://github.com/yourusername/"><i class='fa fa-github'></i></a>
+```
+Next, add your photo as a png, jpg, or jpeg file to the img/timeline folder. And that's it! Jekyll will regenerate and add your information. Refresh the page to see your face as our newest member of CODE. When you are happy with the way it looks, submit your [pull request](https://help.github.com/articles/creating-a-pull-request/). 
+
+We'll merge your changes into the master branch in a few days. Challenge complete. #shipit
