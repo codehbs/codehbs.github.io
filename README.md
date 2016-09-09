@@ -13,9 +13,9 @@ If you're relatively new to coding, come by the next CODE meeting and we can wal
 ## Challenge Accepted
 Glad you're onboard. CODE's open-source website uses a static webpage builder called [Jekyll](https://jekyllrb.com/). To style the website, we used the [{Personal} template theme](https://panossakkos.github.io/personal-jekyll-theme/) designed by PanosSakkos. Let's add your details to the CODE site.
 
-First off, you'll need to have Ruby on your computer. Check your Ruby version (`ruby -v`) in your terminal. If you don't have Ruby, [you'll need to install it](https://www.ruby-lang.org/en/documentation/installation/). 
+First off, you'll need to have Ruby on your computer. Most macs have an up-to-date version of Ruby on pre-installed. Check your Ruby version (`ruby -v`) in your terminal. If you don't have Ruby, [you'll need to install it](https://www.ruby-lang.org/en/documentation/installation/). 
 
-Once you have Ruby, you'll need to [fork the codehbs-official-homepage repository](https://help.github.com/articles/fork-a-repo/) to your own GitHub page. From your GitHub profile page, [clone the repository](https://help.github.com/articles/cloning-a-repository/) to your desktop. After cloning the repo, you'll need to install the Jekyll gem. In your command line enter the following commands:
+Once you have Ruby, you'll need to [fork the codehbs-official-homepage repository](https://help.github.com/articles/fork-a-repo/) to your own GitHub page. Forking will create a copy of the repository on your github profile. Navigate to this copy on your GitHub profile page, and [clone the repository](https://help.github.com/articles/cloning-a-repository/) to your desktop. After cloning the repo, you'll need to install the Jekyll gem. In your command line enter the following commands:
 
 `gem install jekyll`
 
