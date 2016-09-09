@@ -47,3 +47,5 @@ description:  <a href="http://github.com/yourusername/"><i class='fa fa-github'>
 Next, add your photo as a png, jpg, or jpeg file to the img/timeline folder. And that's it! Jekyll will regenerate and add your information. Refresh the page to see your face as our newest member of CODE. When you are happy with the way it looks, submit your [pull request](https://help.github.com/articles/creating-a-pull-request/). 
 
 We'll merge your changes into the master branch in a few days. Challenge complete. #shipit
+
+Come stop by any of our weekly meeting if you get stuck or have questions; no question is too small or stupid, we've all been there!
