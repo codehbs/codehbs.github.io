@@ -102,12 +102,31 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/adambehrens.jpg"
+    date: "Adam Behrens"
+    description:  <a href="http://github.com/abe732/"><i class='fa fa-github'></i></a>
+                  <a href="http://www.twitter.com/adambehrens"><i class='fa fa-twitter'></i></a>
+                  <a href="https://www.linkedin.com/in/adambehrens2"><i class='fa fa-linkedin'></i></a>
+                  <a href="https://angel.co/adam-behrens-1"><i class='fa fa-angellist'></i></a>
+  - image: "/img/timeline/yuvalgoncho.jpg"
+    date: "Yuval Gonczarowski"
+    description:  <a href="http://github.com/ygoncho/"><i class='fa fa-github'></i></a>
+                  <a href="http://www.twitter.com/ygoncho"><i class='fa fa-twitter'></i></a>
+                  <a href="https://www.linkedin.com/in/goncho"><i class='fa fa-linkedin'></i></a>
+
   - image: "/img/timeline/ryannewton.jpeg"
     date: "Ryan Newton"
     description:  <a href="http://github.com/ryannewton/"><i class='fa fa-github'></i></a>
                   <a href="https://www.linkedin.com/in/rynewton"><i class='fa fa-linkedin'></i></a>
                   <a href="http://www.instagram.com/ryanlnewton/"><i class='fa fa-instagram'></i></a>
                   <a href="https://angel.co/ryan-newton"><i class='fa fa-angellist'></i></a>
+  - image: "/img/timeline/anshulbhagi.jpg"
+    date: "Anshul Bhagi"
+    description:  <a href="http://github.com/abhagi/"><i class='fa fa-github'></i></a>
+                  <a href="http://www.twitter.com/anshulbhagi"><i class='fa fa-twitter'></i></a>
+                  <a href="https://www.linkedin.com/in/anshulbhagi"><i class='fa fa-linkedin'></i></a>
+                  <a href="http://www.instagram.com/abhagi/"><i class='fa fa-instagram'></i></a>
+                  <a href="https://angel.co/anshulbhagi"><i class='fa fa-angellist'></i></a>
   - image: "/img/timeline/andreacoravos.jpg"
     date: "Andrea Coravos"
     description:  <a href="http://github.com/acoravos/"><i class='fa fa-github'></i></a>
@@ -116,24 +135,6 @@ events:
                   <a href="http://www.instagram.com/andreacoravos/"><i class='fa fa-instagram'></i></a>
                   <a href="https://angel.co/andrea-coravos"><i class='fa fa-angellist'></i></a>
                   <a href="https://www.coinbase.com/coravos"><i class='fa fa-btc'></i></a>
-  - image: "/img/timeline/anshulbhagi.jpg"
-    date: "Anshul Bhagi"
-    description:  <a href="http://github.com/abhagi/"><i class='fa fa-github'></i></a>
-                  <a href="http://www.twitter.com/anshulbhagi"><i class='fa fa-twitter'></i></a>
-                  <a href="https://www.linkedin.com/in/anshulbhagi"><i class='fa fa-linkedin'></i></a>
-                  <a href="http://www.instagram.com/abhagi/"><i class='fa fa-instagram'></i></a>
-                  <a href="https://angel.co/anshulbhagi"><i class='fa fa-angellist'></i></a>
-  - image: "/img/timeline/yuvalgoncho.jpg"
-    date: "Yuval Gonczarowski"
-    description:  <a href="http://github.com/ygoncho/"><i class='fa fa-github'></i></a>
-                  <a href="http://www.twitter.com/ygoncho"><i class='fa fa-twitter'></i></a>
-                  <a href="https://www.linkedin.com/in/goncho"><i class='fa fa-linkedin'></i></a>
-  - image: "/img/timeline/adambehrens.jpg"
-    date: "Adam Behrens"
-    description:  <a href="http://github.com/abe732/"><i class='fa fa-github'></i></a>
-                  <a href="http://www.twitter.com/adambehrens"><i class='fa fa-twitter'></i></a>
-                  <a href="https://www.linkedin.com/in/adambehrens2"><i class='fa fa-linkedin'></i></a>
-                  <a href="https://angel.co/adam-behrens-1"><i class='fa fa-angellist'></i></a>
 
 # First image of the Timeline
 
