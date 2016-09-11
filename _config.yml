@@ -102,6 +102,12 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/ryannewton.jpeg"
+    date: "Ryan Newton"
+    description:  <a href="http://github.com/ryannewton/"><i class='fa fa-github'></i></a>
+                  <a href="https://www.linkedin.com/in/rynewton"><i class='fa fa-linkedin'></i></a>
+                  <a href="http://www.instagram.com/ryanlnewton/"><i class='fa fa-instagram'></i></a>
+                  <a href="https://angel.co/ryan-newton"><i class='fa fa-angellist'></i></a>
   - image: "/img/timeline/andreacoravos.jpg"
     date: "Andrea Coravos"
     description:  <a href="http://github.com/acoravos/"><i class='fa fa-github'></i></a>
