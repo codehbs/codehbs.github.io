@@ -48,4 +48,4 @@ Next, add your photo as a png, jpg, or jpeg file to the img/timeline folder. And
 
 We'll merge your changes into the master branch in a few days. Challenge complete. #shipit
 
-Come stop by any of our weekly meeting if you get stuck or have questions; no question is too small or stupid, we've all been there!
+Come stop by any of our (weekly meetings)[https://www.facebook.com/codehbs] if you get stuck or have questions; no question is too small or stupid, we've all been there!
