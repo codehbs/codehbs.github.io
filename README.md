@@ -23,7 +23,7 @@ Once you have Ruby, you'll need to [fork the codehbs-official-homepage repositor
 
 `gem install jemoji`
 
-After cd'ing into the codehbs-official-homepage directory, start the Jekyll server:
+This will allow you to run the server for the website on your local machine using the terminal (command line). After intalling jekyll, you'll want to navigate to the cloned repository using the "cd" command in the terminal. Note: once in the repository, you'll want to keep this terminal window open. After cd'ing into the codehbs-official-homepage directory, start the Jekyll server:
 
 `jekyll serve`
 
