@@ -117,6 +117,10 @@ events:
                   <a href="https://www.linkedin.com/in/anshulbhagi"><i class='fa fa-linkedin'></i></a>
                   <a href="http://www.instagram.com/abhagi/"><i class='fa fa-instagram'></i></a>
                   <a href="https://angel.co/anshulbhagi"><i class='fa fa-angellist'></i></a>
+  - image: "/img/timeline/ryanjones.jpg"
+    date: "Ryan Jones"
+    description:  <a href="http://github.com/jones2718281/"><i class='fa fa-github'></i></a>
+                  <a href="https://www.linkedin.com/in/ryan-jones-41a16918"><i class='fa fa-linkedin'></i></a>
 
 # First image of the Timeline
 
