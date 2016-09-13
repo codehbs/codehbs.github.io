@@ -13,9 +13,9 @@ If you're relatively new to coding, come by the next CODE meeting and we can wal
 ## Challenge Accepted
 Glad you're onboard. CODE's open-source website uses a static webpage builder called [Jekyll](https://jekyllrb.com/). To style the website, we used the [{Personal} template theme](https://panossakkos.github.io/personal-jekyll-theme/) designed by PanosSakkos. Let's add your details to the CODE site.
 
-First off, you'll need to have Ruby on your computer. Check your Ruby version (`ruby -v`) in your terminal. If you don't have Ruby, [you'll need to install it](https://www.ruby-lang.org/en/documentation/installation/). 
+First off, you'll need to have Ruby on your computer. Most macs have an up-to-date version of Ruby on pre-installed. Check your Ruby version (`ruby -v`) in your terminal. If you don't have Ruby, [you'll need to install it](https://www.ruby-lang.org/en/documentation/installation/). 
 
-Once you have Ruby, you'll need to [fork the codehbs-official-homepage repository](https://help.github.com/articles/fork-a-repo/) to your own GitHub page. From your GitHub profile page, [clone the repository](https://help.github.com/articles/cloning-a-repository/) to your desktop. After cloning the repo, you'll need to install the Jekyll gem. In your command line enter the following commands:
+Once you have Ruby, you'll need to [fork the codehbs-official-homepage repository](https://help.github.com/articles/fork-a-repo/) to your own GitHub page. Forking will create a copy of the repository on your github profile. Navigate to this copy on your GitHub profile page, and [clone the repository](https://help.github.com/articles/cloning-a-repository/) to your desktop. After cloning the repo, you'll need to install the Jekyll gem. In your command line enter the following commands:
 
 `gem install jekyll`
 
@@ -23,7 +23,7 @@ Once you have Ruby, you'll need to [fork the codehbs-official-homepage repositor
 
 `gem install jemoji`
 
-After cd'ing into the codehbs-official-homepage directory, start the Jekyll server:
+This will allow you to run the server for the website on your local machine using the terminal (command line). After intalling jekyll, you'll want to navigate to the cloned repository using the "cd" command in the terminal. Note: once in the repository, you'll want to keep this terminal window open. After cd'ing into the codehbs-official-homepage directory, start the Jekyll server:
 
 `jekyll serve`
 
@@ -44,6 +44,8 @@ image: "/img/timeline/nameofyourphoto.jpg"
 date: "Your Name"
 description:  <a href="http://github.com/yourusername/"><i class='fa fa-github'></i></a>
 ```
-Next, add your photo as a png, jpg, or jpeg file to the img/timeline folder. And that's it! Jekyll will regenerate and add your information. Refresh the page to see your face as our newest member of CODE. When you are happy with the way it looks, submit your [pull request](https://help.github.com/articles/creating-a-pull-request/). 
+Next, add your photo as a png, jpg, or jpeg file to the img/timeline folder. And that's it! Jekyll will regenerate and add your information. Refresh the page to see your face as our newest member of CODE. When you are happy with the way it looks, submit your [pull request](https://help.github.com/articles/creating-a-pull-request/). #shipit
 
-We'll merge your changes into the master branch in a few days. Challenge complete. #shipit
+We'll merge your changes into the master branch in a few days. After we do the merge, we'll deploy it to [codehbsclub.com](http://codehbsclub.com). Challenge complete. You've been immortalized online. 
+
+Come stop by any of our [weekly meetings](https://www.facebook.com/codehbs) if you get stuck or have questions; no question is too small or stupid, we've all been there!
