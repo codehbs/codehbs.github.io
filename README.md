@@ -48,13 +48,13 @@ Next, add your photo as a png, jpg, or jpeg file to the img/timeline folder. And
 
 1. Commit your changes:
 
-⋅⋅⋅`git status` (to see the files that were changed)
+`git status` (to see the files that were changed)
 
-⋅⋅⋅`git add .` (to all all the changed files)
+`git add .` (to all all the changed files)
 
-⋅⋅⋅`git commit -m "add your-name-here to site!"` (commits to gihub)
+`git commit -m "add your-name-here to site!"` (commits to gihub)
 
-⋅⋅⋅`git push origin your-initials/feature-you-are-adding` (push to your branch name)
+`git push origin your-initials/feature-you-are-adding` (push to your branch name)
 
 2. Submit your [pull request](https://help.github.com/articles/creating-a-pull-request/). This will be a pull request to merge your branch into the master branch. #shipit
 
