@@ -13,7 +13,9 @@ If you're relatively new to coding, come by the next CODE meeting and we can wal
 ## Challenge Accepted
 Glad you're onboard. CODE's open-source website uses a static webpage builder called [Jekyll](https://jekyllrb.com/). To style the website, we used the [{Personal} template theme](https://panossakkos.github.io/personal-jekyll-theme/) designed by PanosSakkos. Let's add your details to the CODE site.
 
-First off, you'll need to have Ruby on your computer. Most macs have an up-to-date version of Ruby on pre-installed. Check your Ruby version (`ruby -v`) in your terminal. If you don't have Ruby, [you'll need to install it](https://www.ruby-lang.org/en/documentation/installation/). 
+First off, you'll need to join the [codehbs github organization](https://github.com/codehbs) in order to make any changes to your branch that you'll make of this repository. If you haven't done so, take a second to do that on the previous page and then come back here!
+
+Second, you'll need to have Ruby on your computer. Most macs have an up-to-date version of Ruby on pre-installed. Check your Ruby version (`ruby -v`) in your terminal. If you don't have Ruby, [you'll need to install it](https://www.ruby-lang.org/en/documentation/installation/). 
 
 Once you have Ruby, you'll need to [clone the repository](https://help.github.com/articles/cloning-a-repository/) to your desktop. After cloning the repo, you'll need to install the Jekyll gem. In your command line enter the following commands:
 
