@@ -46,9 +46,13 @@ description:  <a href="http://github.com/yourusername/"><i class='fa fa-github'>
 ```
 Next, add your photo as a png, jpg, or jpeg file to the img/timeline folder. And that's it! Jekyll will regenerate and add your information. Refresh the page to see your face as our newest member of CODE. When you are happy with the way it looks, you'll want to:
 1) commit your changes:
+
 `git status` (to see the files that were changed)
+
 `git add .` (to all all the changed files)
+
 `git commit -m "add your-name-here to site!"` (commits to gihub)
+
 `git push origin your-initials/feature-you-are-adding` (push to your branch name)
 
 2) submit your [pull request](https://help.github.com/articles/creating-a-pull-request/). #shipit
