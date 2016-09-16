@@ -15,7 +15,7 @@ Glad you're onboard. CODE's open-source website uses a static webpage builder ca
 
 First off, you'll need to have Ruby on your computer. Most macs have an up-to-date version of Ruby on pre-installed. Check your Ruby version (`ruby -v`) in your terminal. If you don't have Ruby, [you'll need to install it](https://www.ruby-lang.org/en/documentation/installation/). 
 
-Once you have Ruby, you'll need to [fork the codehbs-official-homepage repository](https://help.github.com/articles/fork-a-repo/) to your own GitHub page. Forking will create a copy of the repository on your github profile. Navigate to this copy on your GitHub profile page, and [clone the repository](https://help.github.com/articles/cloning-a-repository/) to your desktop. After cloning the repo, you'll need to install the Jekyll gem. In your command line enter the following commands:
+Once you have Ruby, you'll need to [clone the repository](https://help.github.com/articles/cloning-a-repository/) to your desktop. After cloning the repo, you'll need to install the Jekyll gem. In your command line enter the following commands:
 
 `gem install jekyll`
 
@@ -30,7 +30,7 @@ This will allow you to run the server for the website on your local machine usin
 Look for your local server address. Most likely, your Jekyll page will be hosted at localhost:4000/codehbs-official-homepage in your browser. 
 
 ## Embrace good git hygene
-To make updates, use your favorite text editor. Many CODE members like [Sublime Text](https://www.sublimetext.com/), [Atom](https://education.github.com/pack) and products from [JetBrains](https://www.jetbrains.com/). Always make a feature branch before submitting a pull request. Good feature branches use the following format:
+To make updates, use your favorite text editor. Many CODE members like [Sublime Text](https://www.sublimetext.com/), [Atom](https://education.github.com/pack) and products from [JetBrains](https://www.jetbrains.com/). Before updating the code, it's a good practice to always [make a feature branch](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) (and it's an especially good practice to do so before submitting a pull request). Good feature branches use the following format:
 
 `your-initials/feature-you-are-adding` 
 
@@ -44,7 +44,14 @@ image: "/img/timeline/nameofyourphoto.jpg"
 date: "Your Name"
 description:  <a href="http://github.com/yourusername/"><i class='fa fa-github'></i></a>
 ```
-Next, add your photo as a png, jpg, or jpeg file to the img/timeline folder. And that's it! Jekyll will regenerate and add your information. Refresh the page to see your face as our newest member of CODE. When you are happy with the way it looks, submit your [pull request](https://help.github.com/articles/creating-a-pull-request/). #shipit
+Next, add your photo as a png, jpg, or jpeg file to the img/timeline folder. And that's it! Jekyll will regenerate and add your information. Refresh the page to see your face as our newest member of CODE. When you are happy with the way it looks, you'll want to:
+1) commit your changes:
+`git status` (to see the files that were changed)
+`git add .` (to all all the changed files)
+`git commit -m "add your-name-here to site!"` (commits to gihub)
+`git push origin your-initials/feature-you-are-adding` (push to your branch name)
+
+2) submit your [pull request](https://help.github.com/articles/creating-a-pull-request/). #shipit
 
 We'll merge your changes into the master branch in a few days. After we do the merge, we'll deploy it to [codehbsclub.com](http://codehbsclub.com). Challenge complete. You've been immortalized online. 
 
