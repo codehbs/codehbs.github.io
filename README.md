@@ -46,17 +46,17 @@ description:  <a href="http://github.com/yourusername/"><i class='fa fa-github'>
 ```
 Next, add your photo as a png, jpg, or jpeg file to the img/timeline folder. And that's it! Jekyll will regenerate and add your information. Refresh the page to see your face as our newest member of CODE. When you are happy with the way it looks, you'll want to:
 
-1. Commit your changes:
+1) Commit your changes:
 
-`git status` (to see the files that were changed)
+   `git status` (to see the files that were changed)
 
-`git add .` (to all all the changed files)
+   `git add .` (to all all the changed files)
 
-`git commit -m "add your-name-here to site!"` (commits to gihub)
+   `git commit -m "add your-name-here to site!"` (commits to gihub)
 
-`git push origin your-initials/feature-you-are-adding` (push to your branch name)
+   `git push origin your-initials/feature-you-are-adding` (push to your branch name)
 
-2. Submit your [pull request](https://help.github.com/articles/creating-a-pull-request/). This will be a pull request to merge your branch into the master branch. #shipit
+2) Submit your [pull request](https://help.github.com/articles/creating-a-pull-request/). This will be a pull request to merge your branch into the master branch. #shipit
 
 We'll merge your changes into the master branch in a few days. After we do the merge, we'll deploy it to [codehbsclub.com](http://codehbsclub.com). Challenge complete. You've been immortalized online. 
 
