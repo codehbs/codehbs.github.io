@@ -102,6 +102,12 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/stephtong.jpg"
+    date: "Steph Tong"
+    description:  <a href="http://github.com/satong/"><i class='fa fa-github'></i></a>
+                  <a href="https://www.linkedin.com/in/stephanieatong"><i class='fa fa-linkedin'></i></a>
+                  <a href="https://angel.co/stephanie-tong"><i class='fa fa-angellist'></i></a>
+
   - image: "/img/timeline/danielpeng.jpg"
     date: "Daniel Peng"
     description:  <a href="http://github.com/danielypeng/"><i class='fa fa-github'></i></a>
