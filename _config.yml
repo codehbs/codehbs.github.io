@@ -102,6 +102,11 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/paulyarabe.jpg"
+    date: "Paul Yarabe"
+    description:  <a href="https://github.com/paulyarabe"><i class='fa fa-github'></i></a>
+                  <a href="https://www.paulyarabe.com"><i class='fa fa-male'></i></a>
+
   - image: "/img/timeline/sashapang.jpg"
     date: "Sasha Pang"
     description:  <a href="https://github.com/sashapang"><i class='fa fa-github'></i></a>
