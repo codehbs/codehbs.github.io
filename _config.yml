@@ -111,13 +111,33 @@ events:
                   <a href="http://www.instagram.com/sassyhash/"><i class='fa fa-instagram'></i></a>
                   <a href="https://angel.co/brittanyyoon"><i class='fa fa-angellist'></i></a>
 
+  - image: "/img/timeline/paulyarabe.jpg"
+    date: "Paul Yarabe"
+    description:  <a href="https://github.com/paulyarabe"><i class='fa fa-github'></i></a>
+                  <a href="https://www.paulyarabe.com"><i class='fa fa-male'></i></a>
+
+  - image: "/img/timeline/sashapang.jpg"
+    date: "Sasha Pang"
+    description:  <a href="https://github.com/sashapang"><i class='fa fa-github'></i></a>
+                  <a href="https://www.linkedin.com/in/sasha-aleksandra-pang-986aa211"><i class='fa fa-linkedin'></i></a>
+
+  - image: "/img/timeline/andrepang.jpg"
+    date: "André Pang"
+    description:  <a href="http://github.com/andrep/"><i class='fa fa-github'></i></a>
+                  <a href="http://www.twitter.com/andrepang"><i class='fa fa-twitter'></i></a>
+                  <a href="https://www.linkedin.com/in/andrep"><i class='fa fa-linkedin'></i></a>
+  - image: "/img/timeline/stephtong.jpeg"
+    date: "Steph Tong"
+    description:  <a href="http://github.com/satong/"><i class='fa fa-github'></i></a>
+                  <a href="https://www.linkedin.com/in/stephanieatong"><i class='fa fa-linkedin'></i></a>
+                  <a href="https://angel.co/stephanie-tong"><i class='fa fa-angellist'></i></a>
+>>>>>>> 2e293efaf356e1b68992a9cc433300fb44cf7cda
 
   - image: "/img/timeline/danielpeng.jpg"
     date: "Daniel Peng"
     description:  <a href="http://github.com/danielypeng/"><i class='fa fa-github'></i></a>
                   <a href="https://www.linkedin.com/in/danielpeng"><i class='fa fa-linkedin'></i></a>
                   <a href="https://angel.co/danielpeng"><i class='fa fa-angellist'></i></a>
-
   - image: "/img/timeline/adambehrens.jpg"
     date: "Adam Behrens"
     description:  <a href="http://github.com/abe732/"><i class='fa fa-github'></i></a>
