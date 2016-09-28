@@ -102,6 +102,16 @@ syntax-highlight: True
 ############
 
 events:
+
+  - image: "/img/timeline/brittanyyoon.jpg"
+    date: "Brittany Yoon"
+    description:  <a href="http://github.com/sassyhash/"><i class='fa fa-github'></i></a>
+                  <a href="http://www.twitter.com/BrittanyYoon"><i class='fa fa-twitter'></i></a>
+                  <a href="https://www.linkedin.com/in/brittanyyoon"><i class='fa fa-linkedin'></i></a>
+                  <a href="http://www.instagram.com/sassyhash/"><i class='fa fa-instagram'></i></a>
+                  <a href="https://angel.co/brittanyyoon"><i class='fa fa-angellist'></i></a>
+
+
   - image: "/img/timeline/danielpeng.jpg"
     date: "Daniel Peng"
     description:  <a href="http://github.com/danielypeng/"><i class='fa fa-github'></i></a>
@@ -164,8 +174,8 @@ email: "code@studentclubs.hbs.edu"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: 
-author_blurb_image: 
+author_blurb:
+author_blurb_image:
 
 ##################
 # Social Buttons #
@@ -175,7 +185,7 @@ social:
   - title: "github"
     url: "https://github.com/codehbs"
   - title: "twitter"
-    url: "https://twitter.com/codehbs"    
+    url: "https://twitter.com/codehbs"
   - title: "facebook"
     url: "https://facebook.com/codehbs"
   - title: "instagram"
@@ -193,7 +203,7 @@ social:
 # GPG on Keybase #
 ##################
 
-keybase-username: 
+keybase-username:
 keybase-in-social: False
 keybase-in-footer: False
 
