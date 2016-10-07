@@ -101,7 +101,11 @@ syntax-highlight: True
 ############
 
 events:
-
+  - image: "/img/timeline/alisonshin.jpg"
+    date: "Alison Shin"
+    description:  <a href="http://github.com/alisonyshin/"><i class='fa fa-github'></i></a>
+                  <a href="https://https://www.linkedin.com/in/alisonshin"><i class='fa fa-linkedin'></i></a>
+                  <a href="https://www.instagram.com/alisonyshin"><i class='fa fa-instagram'></i></a>
   - image: "/img/timeline/brittanyyoon.jpg"
     date: "Brittany Yoon"
     description:  <a href="http://github.com/sassyhash/"><i class='fa fa-github'></i></a>
