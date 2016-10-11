@@ -102,6 +102,11 @@ syntax-highlight: True
 
 events:
 
+  - image: "/img/timeline/tatianacooke.jpg"
+    date: "Tatiana Cooke"
+    description:  <a href="http://github.com/tatstuff/"><i class='fa fa-github'></i></a>
+                  <a href="https://www.linkedin.com/in/tatianacooke"><i class='fa fa-linkedin'></i></a>
+                  <a href="http://www.instagram.com/tatstuff/"><i class='fa fa-instagram'></i></a>
   - image: "/img/timeline/alisonshin.jpg"
     date: "Alison Shin"
     description:  <a href="http://github.com/alisonyshin/"><i class='fa fa-github'></i></a>
@@ -112,11 +117,6 @@ events:
     description:  <a href="http://github.com/cbernardin/"><i class='fa fa-github'></i></a>
                   <a href="https://www.linkedin.com/in/christinabernardin"><i class='fa fa-linkedin'></i></a>
                   <a href="http://www.instagram.com/chrisber/"><i class='fa fa-instagram'></i></a>
-  - image: "/img/timeline/tatiana_cooke_1016.jpg"
-    date: "Tatiana Cooke"
-    description:  <a href="http://github.com/tatstuff/"><i class='fa fa-github'></i></a>
-                  <a href="https://www.linkedin.com/in/tatianacooke"><i class='fa fa-linkedin'></i></a>
-                  <a href="http://www.instagram.com/tatstuff/"><i class='fa fa-instagram'></i></a>
   - image: "/img/timeline/brittanyyoon.jpg"
     date: "Brittany Yoon"
     description:  <a href="http://github.com/sassyhash/"><i class='fa fa-github'></i></a>
