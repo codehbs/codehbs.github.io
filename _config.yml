@@ -102,6 +102,11 @@ syntax-highlight: True
 
 events:
 
+  - image: "/img/timeline/jeremyyan.jpg"
+    date: "Shuangchun \"Jeremy\" Yan"
+    description:  <a href="https://github.com/jeremyan-"><i class='fa fa-github'></i></a>
+                  <a href="https://www.linkedin.com/in/jeremyyan"><i class='fa fa-linkedin'></i></a>
+                  <a href="https://twitter.com/jeremyan"><i class='fa fa-twitter'></i></a>
   - image: "/img/timeline/tatianacooke.jpg"
     date: "Tatiana Cooke"
     description:  <a href="http://github.com/tatstuff/"><i class='fa fa-github'></i></a>
