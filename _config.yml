@@ -102,6 +102,12 @@ syntax-highlight: True
 
 events:
 
+  - image: "/img/timeline/libbyspalding.jpg"
+    date: "Libby Spalding"
+    description:  <a href="http://github.com/libbyspalding/"><i class='fa fa-github'></i></a>
+                  <a href="https://www.linkedin.com/in/libby-spalding-60ba561a"><i class='fa fa-linkedin'></i></a>
+                  <a href="http://www.instagram.com/sassyhash/"><i class='fa fa-instagram'></i></a>
+                  <a href="https://angel.co/libby-spalding"><i class='fa fa-angellist'></i></a>
   - image: "/img/timeline/jeremyyan.jpg"
     date: "Shuangchun \"Jeremy\" Yan"
     description:  <a href="https://github.com/jeremyan-"><i class='fa fa-github'></i></a>
