@@ -101,7 +101,11 @@ syntax-highlight: True
 ############
 
 events:
-
+  - image: "/img/timeline/nadyaliubyva.JPG"
+    date: "Nadya Liubyva"
+    description:  <a href="http://github.com/NadyaLiu/"><i class='fa fa-github'></i></a>
+                  <a href="https://www.linkedin.com/in/nadyalyubyva"><i class='fa fa-linkedin'></i></a>
+                  <a href="http://www.instagram.com/nadiyka/"><i class='fa fa-instagram'></i></a>
   - image: "/img/timeline/libbyspalding.jpg"
     date: "Libby Spalding"
     description:  <a href="http://github.com/libbyspalding/"><i class='fa fa-github'></i></a>
