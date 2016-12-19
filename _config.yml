@@ -101,7 +101,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/rene_candia.jpg"
+  - image: "/img/timeline/nadyaliubyva.jpg"
     date: "Rene Candia"
     description:  <a href="https://github.com/rcandiap/"><i class='fa fa-github'></i></a>
                   <a href="https://www.linkedin.com/in/renecandia"><i class='fa fa-linkedin'></i></a>
