@@ -101,12 +101,12 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/renecandia.jpg
+  - image: "/img/timeline/renecandia.jpg"
     date: "Rene Candia"
     description:  <a href="https://github.com/rcandiap/"><i class='fa fa-github'></i></a>
                   <a href="https://www.linkedin.com/in/renecandia"><i class='fa fa-linkedin'></i></a>
                   <a href="https://angel.co/rene-candia"><i class='fa fa-angellist'></i></a>
-  - image: "/img/timeline/nadyaliubyva.jpg
+  - image: "/img/timeline/nadyaliubyva.jpg"
     date: "Nadya Liubyva"
     description:  <a href="http://github.com/NadyaLiu/"><i class='fa fa-github'></i></a>
                   <a href="https://www.linkedin.com/in/nadyalyubyva"><i class='fa fa-linkedin'></i></a>
