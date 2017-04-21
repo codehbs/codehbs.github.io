@@ -2,7 +2,7 @@
 
 ![screenshot](/img/code-website-screenshot.png)
 
-This is our repository for the CODE@HBS open-source website. Check out [a demo](http://codehbs.github.io/codehbs-official-homepage) of our site.
+This is our repository for the CODE@HBS open-source website. Check out [a demo](http://codehbs.github.io) of our site.
 
 **Your first challenge as a member of CODE**: add your name, photo and social media links to the "member" section of our open-source website. You must be a dues paying member of CODE for us to approve the pull request.
 

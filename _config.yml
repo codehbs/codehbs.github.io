@@ -11,7 +11,7 @@ url: "https://codehbsclub.com"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /codehbs-official-homepage
+baseurl: ""
 
 # Google tracking id
 
@@ -101,7 +101,42 @@ syntax-highlight: True
 ############
 
 events:
-
+  - image: "/img/timeline/renecandia.jpg"
+    date: "Rene Candia"
+    description:  <a href="https://github.com/rcandiap/"><i class='fa fa-github'></i></a>
+                  <a href="https://www.linkedin.com/in/renecandia"><i class='fa fa-linkedin'></i></a>
+                  <a href="https://angel.co/rene-candia"><i class='fa fa-angellist'></i></a>
+  - image: "/img/timeline/nadyaliubyva.jpg"
+    date: "Nadya Liubyva"
+    description:  <a href="http://github.com/NadyaLiu/"><i class='fa fa-github'></i></a>
+                  <a href="https://www.linkedin.com/in/nadyalyubyva"><i class='fa fa-linkedin'></i></a>
+                  <a href="http://www.instagram.com/nadiyka/"><i class='fa fa-instagram'></i></a>
+  - image: "/img/timeline/libbyspalding.jpg"
+    date: "Libby Spalding"
+    description:  <a href="http://github.com/libbyspalding/"><i class='fa fa-github'></i></a>
+                  <a href="https://www.linkedin.com/in/libby-spalding-60ba561a"><i class='fa fa-linkedin'></i></a>
+                  <a href="http://www.instagram.com/sassyhash/"><i class='fa fa-instagram'></i></a>
+                  <a href="https://angel.co/libby-spalding"><i class='fa fa-angellist'></i></a>
+  - image: "/img/timeline/jeremyyan.jpg"
+    date: "Shuangchun \"Jeremy\" Yan"
+    description:  <a href="https://github.com/jeremyan-"><i class='fa fa-github'></i></a>
+                  <a href="https://www.linkedin.com/in/jeremyyan"><i class='fa fa-linkedin'></i></a>
+                  <a href="https://twitter.com/jeremyan"><i class='fa fa-twitter'></i></a>
+  - image: "/img/timeline/tatianacooke.jpg"
+    date: "Tatiana Cooke"
+    description:  <a href="http://github.com/tatstuff/"><i class='fa fa-github'></i></a>
+                  <a href="https://www.linkedin.com/in/tatianacooke"><i class='fa fa-linkedin'></i></a>
+                  <a href="http://www.instagram.com/tatstuff/"><i class='fa fa-instagram'></i></a>
+  - image: "/img/timeline/alisonshin.jpg"
+    date: "Alison Shin"
+    description:  <a href="http://github.com/alisonyshin/"><i class='fa fa-github'></i></a>
+                  <a href="https://https://www.linkedin.com/in/alisonshin"><i class='fa fa-linkedin'></i></a>
+                  <a href="https://www.instagram.com/alisonyshin"><i class='fa fa-instagram'></i></a>
+  - image: "/img/timeline/christinabernardin.jpg"
+    date: "Christina Bernardin"
+    description:  <a href="http://github.com/cbernardin/"><i class='fa fa-github'></i></a>
+                  <a href="https://www.linkedin.com/in/christinabernardin"><i class='fa fa-linkedin'></i></a>
+                  <a href="http://www.instagram.com/chrisber/"><i class='fa fa-instagram'></i></a>
   - image: "/img/timeline/brittanyyoon.jpg"
     date: "Brittany Yoon"
     description:  <a href="http://github.com/sassyhash/"><i class='fa fa-github'></i></a>
@@ -213,7 +248,7 @@ social:
 # 404 page #
 ############
 
-404-img: "/img/labtocat.png"
+err-404-img: "/img/labtocat.png"
 
 ##################
 # GPG on Keybase #
