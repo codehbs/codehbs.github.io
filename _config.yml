@@ -101,6 +101,10 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/colleentapen-sq.jpg"
+    date: "Colleen Tapen"
+    description:  <a href="https://github.com/ctapen/"><i class='fa fa-github'></i></a>
+                  <a href="https://www.linkedin.com/in/colleen-tapen-9399612a"><i class='fa fa-linkedin'></i></a>
   - image: "/img/timeline/renecandia.jpg"
     date: "Rene Candia"
     description:  <a href="https://github.com/rcandiap/"><i class='fa fa-github'></i></a>
